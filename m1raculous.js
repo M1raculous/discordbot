@@ -1,3 +1,13 @@
+/* ______  ___   ______   ________     _______       _________   _____  __   ______       _______     _____  __   ________    
+ ___   |/  /   __<  /   ___  __ \    ___    |      __  ____/   __  / / /   ___  /       __  __ \    __  / / /   __  ___/    
+__  /|_/ /    __  /    __  /_/ /    __  /| |      _  /        _  / / /    __  /        _  / / /    _  / / /    _____ \     
+__  /  / /     _  /     _  _, _/     _  ___ |      / /___      / /_/ /     _  /___      / /_/ /     / /_/ /     ____/ /     
+_ /_/  /_/      /_/      /_/ |_|      /_/  |_|      \____/      \____/      /_____/      \____/      \____/      /____/  
+©️ 2020 M1raculous All Rights Reserved  
+Made By M1raculous
+Steam: https://steamcommunity.com/id/M1raculous/
+Discord: M1raculous#1337
+*/    
 const {Discord, Client, Collection, MessageEmbed} = require("discord.js"); 
 const token = 'NotU1NDE5NDkxOTE1MR3AL.X2DBOQ.TOK-3.NGIiPdSvX4f_B1NyoDxd4p2Y' //https://discord.com/developers/applications/, create your own here :P
 /*
