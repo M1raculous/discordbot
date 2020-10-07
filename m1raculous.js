@@ -9,7 +9,14 @@ Steam: https://steamcommunity.com/id/M1raculous/
 Discord: M1raculous#1337
 */    
 const {Discord, Client, Collection, MessageEmbed} = require("discord.js"); 
-const token = 'NotU1NDE5NDkxOTE1MR3AL.X2DBOQ.TOK-3.NGIiPdSvX4f_B1NyoDxd4p2Y' //https://discord.com/developers/applications/, create your own here :P
+const token = 'NzU1NDE5NDkxOTE1MTM3MTM2.X2DBOQ.K1w-GIiPdSvX4f_B1NyoDxd4p2Y' //https://discord.com/developers/applications/, create your own here :P
+
+
+const client = new Client ({
+    disableEveryone: true,
+    disableEvents: ["TYPING_START"]
+});
+
 /*
 So, this is just a template, i've made for you, therefore YOU SHALL NOT just drag & drop it. Since there is a lot commands that isn't uptimezed. 
 
@@ -24,7 +31,7 @@ I will also show how to make a command in a other folder, this case it's command
 */
 
 //when we wan't something to dissapear, i make it thru my main file. i do like this:
-client.on("message"), async mesage => {
+client.on ("message", async mesage => {
 
   msg = message.content.toLowerCase();
 
