@@ -1,5 +1,5 @@
 # Info
-This is a Discord Bot for Fivem, it includes ticket system & more. 
+This is a Discord Bot TEMPLATE :D 
 
 # Credit
 I've made the Discord bot, therefore you SHALL NOT TAKE CREDIT, for my work, or DELETE "watermarks, credits etc."
@@ -13,7 +13,7 @@ will make this section as i make the bot ;D
 
 # TAGS!
 do not mind this
-fivem
+
 FiveM
 discord
 bot
