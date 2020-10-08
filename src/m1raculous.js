@@ -58,7 +58,7 @@ let's make an embed message. you can do like this;
 
             var M1raculous = new MessageEmbed();
             M1raculous.setAuthor(`M1raculous`)
-            M1raculous.setURL('https://google.com')
+            M1raculous.setURL('https://github.com/M1raculous/')
             M1raculous.setTitle('This is a title')
             M1raculous.setDescription('Hello world!')
             M1raculous.setColor('RANDOM')
