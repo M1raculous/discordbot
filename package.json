@@ -1,7 +1,7 @@
 {
   "name": "discordbotforyourdiscordserver",
   "version": "1.0.0",
-  "description": "Discord bot for Dk Fivem",
+  "description": "a template, for discord.js v12",
   "main": "m1raculous.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
