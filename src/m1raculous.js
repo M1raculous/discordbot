@@ -9,7 +9,7 @@ Steam: https://steamcommunity.com/id/M1raculous/
 Discord: M1raculous#1337
 */    
 const { Discord, Client, Collection, MessageEmbed, Channel, Message } = require("discord.js"); 
-const token = 'NzU1NDE5NDkxOTE1MTM3MTM2.X2DBOQ.l1LAqIZczWU6NuSqZ6sfQfUavW4' //https://discord.com/developers/applications/, create your own here :P
+const token = 'TOKEN MUST BE PLACED HERE OR IT WILL NOT WORK!!!!!!!' //https://discord.com/developers/applications/, create your own here :P
 const client = new Client();
 client.on('ready', () => {
     console.log('I am ready!');
@@ -59,6 +59,7 @@ let's make an embed message. you can do like this;
             var M1raculous = new MessageEmbed();
             M1raculous.setAuthor(`M1raculous`)
             M1raculous.setURL('https://google.com')
+            M1raculous.setTitle('This is a title')
             M1raculous.setDescription('Hello world!')
             M1raculous.setColor('RANDOM')
             M1raculous.setThumbnail('https://images-ext-2.discordapp.net/external/zr1aH1FYxR7ZJ8PWwUsdOCo2KL9hu8oHbRXeLvbH7zA/%3Fsize%3D256/https/cdn.discordapp.com/avatars/415443330026045440/d85f7ca1b54bd0dd1fcceca0fe656638.png')
